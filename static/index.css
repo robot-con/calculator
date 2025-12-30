@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(255, 126, 20);
+}
+.main {
+
+    text-align: center;
+}
+
+.in1{
+    margin: 20px;
+    background-color: aqua;
+    padding: 20px;
+    border: 50px;
+    border-radius: 50px;
+    
+}
+.in2{
+    margin: 20px;
+    background-color: red;
+    padding: 20px;
+    border: 50px;
+    border-radius: 50px;
+}
+.in3{
+    margin: 20px;
+    background-color: aqua;
+    padding: 20px;
+    border: 50px;
+    border-radius: 50px;
+}
+
+.but{
+    margin: 20px;
+    background-color: rgb(17, 0, 255);
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.para{
+    font-size: 80px;
+    color: white;
+}
